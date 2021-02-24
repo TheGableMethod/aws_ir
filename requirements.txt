@@ -26,3 +26,4 @@ aws_ir_plugins==0.0.3
 ### Local
 # -e ../aws_ir_plugins
 
+rsa>=4.7 # not directly required, pinned by Snyk to avoid a vulnerability
