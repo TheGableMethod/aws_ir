@@ -26,3 +26,4 @@ aws_ir_plugins==0.0.3
 ### Local
 # -e ../aws_ir_plugins
 
+aiohttp>=3.9.2 # not directly required, pinned by Snyk to avoid a vulnerability
